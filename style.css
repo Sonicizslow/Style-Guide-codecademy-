@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0 10%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.rubik {
+  font-family: 'Rubik', sans-serif;
+}
+
+.roboto-mono{
+  font-family: 'Roboto Mono', sans-serif;
+}
+
+.Orbitron{
+  font-family: 'Orbitron', sans-serif;
+}
